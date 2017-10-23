@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: '819'
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/fig2/fig2.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    folder_url: "/users/165354/articles/189458/master/folder/figures/fig2"
+    url: "/users/165354/articles/189458/master/file/figures/fig2/fig2.png"

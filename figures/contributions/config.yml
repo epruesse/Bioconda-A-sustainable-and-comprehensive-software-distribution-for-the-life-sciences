@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: false
+web-width: 200
+align: center
+float: h!
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - path: figures/contributions/contributions.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
+    url: "/users/165354/articles/189458/master/file/figures/contributions/contributions.png"
+    folder_url: "/users/165354/articles/189458/master/folder/figures/contributions"
